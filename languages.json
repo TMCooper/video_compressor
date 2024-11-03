@@ -1,0 +1,12 @@
+{
+    "fr" : {
+        "exit_message" : "Sortie du programme...",
+        "filepath" : "quelle est le dossier que vous souhaiter convertir ? : ",
+        "errors": "erreur probablement a cause du chemin ou car ffmpeg n'est pas installer"
+    },
+    "en" : {
+        "exit_message" : "Exit...",
+        "filepath": "what is the folder you would like to convert?: ",
+        "errors": "error probably because of the path or because ffmpeg is not installed"
+    }
+}
